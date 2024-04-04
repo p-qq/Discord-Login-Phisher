@@ -31,3 +31,4 @@ I made this a long time ago back in 2021-2022 and I noticed there isn't stuff li
 https://github.com/p-qq/Discord-Login-Phisher/assets/61689690/5c4ac41f-49f3-476e-8602-60ce5659194d
 
 <img width="645" alt="Screenshot 2024-04-04 at 1 59 31 PM" src="https://github.com/p-qq/Discord-Login-Phisher/assets/61689690/5c649c74-c277-4800-aeed-8edfa655c1ff">
+<img width="610" alt="Screenshot 2024-04-04 at 2 10 28 PM" src="https://github.com/p-qq/Discord-Login-Phisher/assets/61689690/9ff82190-1197-41ee-8adb-ac7388735804">
